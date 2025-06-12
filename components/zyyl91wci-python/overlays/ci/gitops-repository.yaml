@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: zyyl91wci-python-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/zyyl91wci-python-gitops
